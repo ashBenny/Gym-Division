@@ -1,2 +1,2 @@
 # Gym-Division
-Static website using html, css,J avaScript
+Static website using html, css, JavaScript
